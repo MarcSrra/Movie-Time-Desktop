@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Con qué se pincha el dedo la Princesa Aurora en La Bella Durmiente?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Una aguja de costura",
+    "r1": "El uso de una rueca",
+    "r2": "La púa de un cactus envenenado",
+    "r3": "",
+    "imagen": "aurora.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "De las siguientes películas ¿cuál NO es de Disney?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Shrek",
+    "r1": "¡Rompe Ralph!",
+    "r2": "Taron y el caldero mágico",
+    "r3": "",
+    "imagen": "disneymovies.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué frase dice Scar a su hermano Mufasa antes de arrojarlo a la estampida?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Larga vida al Rey",
+    "r1": "Se acabó tu reinado",
+    "r2": "Hasta nunca, hermano",
+    "r3": "",
+    "imagen": "mufasadeath.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué animal piensa Lilo que es Stitch a la hora de adoptarlo?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Un perro",
+    "r1": "Un gato",
+    "r2": "Una marmota",
+    "r3": "",
+    "imagen": "lilostitch.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Quién es el personaje de la imagen?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Milo Thatch",
+    "r1": "James Moliére",
+    "r2": "Vincenzo Santorini",
+    "r3": "",
+    "imagen": "disneycharacter.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Por qué se alistó Mulán en el Ejército Imperial?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Para evitar que su padre enfermo se alistara",
+    "r1": "Para vengar la muerte de su abuelo",
+    "r2": "Porque estaba enamorada de Li Shang",
+    "r3": "",
+    "imagen": "mulan.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué le ocurre a Pinocho cada vez que dice una mentira?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Le crece la nariz",
+    "r1": "Se vuelve de madera",
+    "r2": "Recibe una reprimenda de su padre",
+    "r3": "",
+    "imagen": "pinocchio.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quién es el inseparable amigo de Gastón en La Bella y la Bestia?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Lefou",
+    "r1": "Lumiere",
+    "r2": "Maurice",
+    "r3": "",
+    "imagen": "beautyandthebeast.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es el nombre de las hermanas protagonistas de 'Frozen'?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Elsa y Anna",
+    "r1": "Bulda e iduna",
+    "r2": "Clara y Ryley",
+    "r3": "",
+    "imagen": "frozensisters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿En 'Rapunzel' ¿cómo se llama la madre de la protagonista?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Arianna",
+    "r1": "Gothel",
+    "r2": "Bárbara",
+    "r3": "",
+    "imagen": "rapunzelmother.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cómo se llama la poción que toman Shrek y Asno en Shrek 2 (2004)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Felices para siempre",
+    "r1": "Belleza divina",
+    "r2": "Amor eterno",
+    "r3": "",
+    "imagen": "shrekpotion.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿De qué especie es el dragón de Hipo en la saga Cómo Entrenar a tu Dragón?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Furia Nocturna",
+    "r1": "Colmillo Mortal",
+    "r2": "Pesadilla Monstruosa",
+    "r3": "",
+    "imagen": "dragon.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cómo se llama el rival de Gru en Gru, mi Villano Favorito (2010)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Vector",
+    "r1": "Héctor",
+    "r2": "Dexter",
+    "r3": "",
+    "imagen": "gruenemy.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué personaje de Toy Story no sabía inicialmente que era un juguete?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Buzz Lightyear",
+    "r1": "Woody",
+    "r2": "Sr. Patata",
+    "r3": "",
+    "imagen": "toystory.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué emoción representa este personaje en Del Revés (2015)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Miedo",
+    "r1": "Asco",
+    "r2": "Harry Styles",
+    "r3": "",
+    "imagen": "insideoutemotion.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Para qué sirve el gancho de Maui en Vaiana (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Para transformarse en diversos animales",
+    "r1": "Para pescar",
+    "r2": "Para excavar",
+    "r3": "",
+    "imagen": "mauihook.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cómo se llama el maestro de Po en la saga Kung Fu Panda?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Maestro Shifu",
+    "r1": "Maestro Oogway",
+    "r2": "Maestro conejo",
+    "r3": "",
+    "imagen": "kungfupandamaster.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cómo se llama el castillo en la película El Castillo en el Cielo (1986)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Laputa",
+    "r1": "Fortaleza flotante",
+    "r2": "Paluta",
+    "r3": "",
+    "imagen": "castleinthesky.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué instrumento toca Johnny en la película Canta (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Piano",
+    "r1": "Saxofón",
+    "r2": "Guitarra",
+    "r3": "",
+    "imagen": "johnnysing.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cómo se llama este personaje de la película Megamind (2010)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Metroman",
+    "r1": "Megamind",
+    "r2": "Titán",
+    "r3": "",
+    "imagen": "megamindcharacter.jpg"
+  }
+]

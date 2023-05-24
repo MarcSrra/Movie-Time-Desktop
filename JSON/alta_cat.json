@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Qui va ser el director de la pel·lícula francesa Viatge a la Lluna (1902)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Georges Méliès",
+    "r1": "Gaston Méliès",
+    "r2": "Franco",
+    "r3": "Marc Márquez",
+    "imagen": "viajeluna.jpeg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Quina d'aquestes pel·lícules no va ser protagonitzada per Brad Pitt?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Historia americana X (1998)",
+    "r1": "El club de la lluita (1999)",
+    "r2": "El curiós cas de Benjamin Button (2008)",
+    "r3": "Se7en (1995)",
+    "imagen": "bradpitt.png"
+  },
+  {
+    "id": 3,
+    "pregunta": "A la pel·lícula fantàstica El màgic d’Oz (1939), qui va interpretar l'Orfena Dorothy Gale?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Judy Garland",
+    "r1": "Grace Kelly",
+    "r2": "Julie Andrews",
+    "r3": "Katherine Hupburn",
+    "imagen": "wizardofoz.jpeg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Qui va dirigir La Llista de Schindler (1993)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Steven Spielberg",
+    "r1": "Roman Polanski",
+    "r2": "Michael Bay",
+    "r3": "Francis Ford Coppola",
+    "imagen": "schindlerlist.jpeg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Quina va ser la primera pel·lícula que va dirigir David Fincher?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Alien 3",
+    "r1": "Se7en",
+    "r2": "El Club de la Lluita",
+    "r3": "The Game",
+    "imagen": "davidfincher.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Quina actriu va interpretar Jo March a la versió de Mujercitas dirigida per Greta Gerwig el 2019?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Saoirse Ronan",
+    "r1": "Emma Watson",
+    "r2": "Florence Pugh",
+    "r3": "Winona Ryder",
+    "imagen": "littlewomen.jpeg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Com es titula la primera pel·lícula que va dirigir Jordan Peele?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Deixa'm Sortir!",
+    "r1": "Nosaltres",
+    "r2": "Nop!",
+    "r3": "Keanu",
+    "imagen": "jordanpeele.jpeg"
+  },
+  {
+    "id": 8,
+    "pregunta": "Com es diu el director de Paràsits (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Bong Joon-ho",
+    "r1": "Park Chan-wook",
+    "r2": "Han Jin-won",
+    "r3": "Kim Kyeong-taek",
+    "imagen": "parasite.jpeg"
+  },
+  {
+    "id": 9,
+    "pregunta": "Com es diu el/la protagonista de la pel·lícula Possessió Infernal (1981)?",
+    "categoria": "TERROR",
+    "rcorrecta": "Ash",
+    "r1": "Cheryl",
+    "r2": "Scott",
+    "r3": "Bufona",
+    "imagen": "evildead.jpeg"
+  },
+  {
+    "id": 10,
+    "pregunta": "A quin país viatjava Jesse quan va conèixer Céline a la pel·lícula Abans de l’alba(1995)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Àustria",
+    "r1": "França",
+    "r2": "Alemanya",
+    "r3": "Estats Units",
+    "imagen": "beforesunrise.jpeg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Quina va ser la primera película que es va poder veure en un cinema?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "La sortida dels treballadors de la fàbrica Lumière",
+    "r1": "L'arribada del tren a la ciutat",
+    "r2": "Demolició d’un mur",
+    "r3": "La lluna a un metre",
+    "imagen": "oldcinema.jpeg"
+  },
+  {
+    "id": 12,
+    "pregunta": "Quina va ser la primera película sonora?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "El cantant de Jazz",
+    "r1": "Don Joan",
+    "r2": "El gran dictador",
+    "r3": "Spider-Man",
+    "imagen": "cinemapiano.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Quina va ser la película que va guanyar l’Oscar a millor película d’animació l’any que es va estrenar la categoria (2001)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Shrek",
+    "r1": "Monstres S.A.",
+    "r2": "Atlantis",
+    "r3": "El viatge de Chihiro",
+    "imagen": "oscaranimation.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Com es van fer els tendons de la boca del xenoform en aquesta mítica escena d’Alien (1979)?",
+    "categoria": "TERROR",
+    "rcorrecta": "Preservatius",
+    "r1": "Efectes digitals",
+    "r2": "Papel maixé envernissat",
+    "r3": "Tubs refrigerats pintats de negre",
+    "imagen": "alien.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Quina d’aquestes no és una pel·lícula d’en Jackie Chan?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Kung Fu Sion (2004)",
+    "r1": "Karate Kid (2010)",
+    "r2": "Armes Invencibles (1985)",
+    "r3": "Shanghai Kid (2000)",
+    "imagen": "jackiechan.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "Quina enfermetat patia Trevor Reznik, protagonista de El Maquinista (2004)?",
+    "categoria": "THRILLER",
+    "rcorrecta": "Insomni",
+    "r1": "Esquizofrènia",
+    "r2": "Depressió",
+    "r3": "Diabetis",
+    "imagen": "trevorreznik.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "Com es diu l’amant de la Emily Weaver en Crazy, Stupid, Love (2011)?",
+    "categoria": "COMEDY",
+    "rcorrecta": "David Lindhagen",
+    "r1": "Jacob Palmer",
+    "r2": "Richard Madden",
+    "r3": "Adam Sandler",
+    "imagen": "crazystupidlove.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "Quin nom té el cap que interpreta en George MacKay en la pel·lícula 1917 (2019)?",
+    "categoria": "WAR",
+    "rcorrecta": "William Schofield",
+    "r1": "Tom Blake",
+    "r2": "James Mackenzie",
+    "r3": "Leslie Smith",
+    "imagen": "georgemckay1917.jpeg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Per quina pel·lícula va rebre en Benedict Cumberbatch la seva primera nominació a l’Oscar?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Desxifrant Enigma (2014)",
+    "r1": "El Poder del Gos (2021)",
+    "r2": "L’Espia Anglès (2021)",
+    "r3": "Doctor Strange (2016)",
+    "imagen": "benedictcumberbitch.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "Quin instrument toca en Sam a Casablanca?",
+    "categoria": "WAR",
+    "rcorrecta": "Piano",
+    "r1": "Violí",
+    "r2": "Trompeta",
+    "r3": "Xilófon",
+    "imagen": "casablanca.jpeg"
+  }
+]

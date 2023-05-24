@@ -1,0 +1,65 @@
+[
+  {
+    "user": "superadmin",
+    "passwd": "$2a$11$1o6FelNPMebNKkcZ9rZWNOvEcTWJCf.SPOV6aOUuM/kjwGqTjLmcq",
+    "ultimocambiopasswd": "07/12/2022 20:30:07",
+    "type": "Superadmin",
+    "nombre": "Proyecto",
+    "fechanacimiento": "04/10/2022",
+    "genero": "Otro"
+  },
+  {
+    "user": "1",
+    "passwd": "$2a$11$QWH6EOCUqTaDDWzq5l.ySuMtrpta9zEOgCMMboeIlgLJLGuJ6SwpG",
+    "ultimocambiopasswd": "07/12/2022 20:55:26",
+    "type": "Admin",
+    "nombre": "Proyecto",
+    "fechanacimiento": "04/10/2022",
+    "genero": "Otro"
+  },
+  {
+    "user": "David",
+    "passwd": "$2a$11$B00WjCemJX78nHuqVff4J.NMYGETSTVPcOK0gwegupzzqtrxxE6.W",
+    "ultimocambiopasswd": "07/12/2022 20:30:07",
+    "type": "Admin",
+    "nombre": "Proyecto",
+    "fechanacimiento": "04/10/2022",
+    "genero": "Hombre"
+  },
+  {
+    "user": "2",
+    "passwd": "$2a$11$8WE3NybOJDwUHmyKc1lMM.bIA9PlWvABNQmVLvbQRJlR7GGOu7y.q",
+    "ultimocambiopasswd": "07/12/2022 20:30:07",
+    "type": "Editor",
+    "nombre": "Proyecto",
+    "fechanacimiento": "04/10/2022",
+    "genero": "Otro"
+  },
+  {
+    "user": "Marc",
+    "passwd": "$2a$11$8aFsAzVZ5NaHaFLV4O0DMudS3ZYQ1Ka1krUf8HUBK3mZeyPSQa75S",
+    "ultimocambiopasswd": "07/12/2022 20:51:06",
+    "type": "Admin",
+    "nombre": "Marc",
+    "fechanacimiento": "04/10/2022",
+    "genero": "Hombre"
+  },
+  {
+    "user": "marc",
+    "passwd": "$2a$11$cZjOng7GE76EMviJdm7M5uGRj70oGwXR/g2VyOd0fqmJ2VWRgMoWq",
+    "ultimocambiopasswd": "07/12/2022 20:30:07",
+    "type": "Admin",
+    "nombre": "marc",
+    "fechanacimiento": "02/12/2022 3:49:57",
+    "genero": "Otro"
+  },
+  {
+    "user": "aa",
+    "passwd": "$2a$11$F9Y0kmti1IEVXKasO59u/eyOJS05u2my72kEEvrHW9rajXxDm6R2O",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "type": "Editor",
+    "nombre": "aa",
+    "fechanacimiento": "07/12/2022 20:51:23",
+    "genero": "Otro"
+  }
+]

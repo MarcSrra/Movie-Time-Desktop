@@ -1,0 +1,82 @@
+[
+  {
+    "user": "IlloJuan",
+    "passwd": "$2a$11$kNeiPRCT2E7FJXtEHWwd2uiHhc1YXXPolCxBisvQhPY6DtM/rtTGq",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 9000,
+    "nombre": "juan alberto",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 100,
+    "nombre": "jose lui",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "6a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 12000,
+    "nombre": "antonioo",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "5a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 300,
+    "nombre": "obama",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "4a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 500,
+    "nombre": "calipo",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "3a",
+    "passwd": "$2a$11$ahPMsqnwMP30fMzCxYidCeEU.EtT0Vx7xl3RGz8KwXCo/BF/lSIYu",
+    "ultimocambiopasswd": "19/12/2022 0:31:40",
+    "puntuacion": 9,
+    "nombre": "a",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "2a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 9,
+    "nombre": "a",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  },
+  {
+    "user": "1a",
+    "passwd": "$2a$11$wQLSIy4qGOhyLYRYpg5L7O9wLB6GPgwH4lIRSjS41VqDCe4nrNqXW",
+    "ultimocambiopasswd": "07/12/2022 20:51:23",
+    "puntuacion": 9,
+    "nombre": "a",
+    "fechanacimiento": 2022,
+    "fotoperfil": "adulto_will.png",
+    "genero": null
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "What does Princess Aurora prick her finger with in Sleeping Beauty?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "A spinning wheel",
+    "r1": "A sewing needle",
+    "r2": "The spike of a poisoned cactus",
+    "r3": "",
+    "imagen": "aurora.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Which of the following movies is NOT from Disney?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Shrek",
+    "r1": "The Black Cauldron",
+    "r2": "Wreck-it Ralph!",
+    "r3": "",
+    "imagen": "disneymovies.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "What phrase does Scar say to his brother Mufasa before throwing him into the stampede?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Long live the King",
+    "r1": "Your kingdom is over",
+    "r2": "So long, brother",
+    "r3": "",
+    "imagen": "mufasadeath.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "What animal does Lilo think Stitch is when she adopts him?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "A dog",
+    "r1": "A cat",
+    "r2": "Groundhog",
+    "r3": "",
+    "imagen": "lilostitch.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Who is the character from the picture?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Milo Thatch",
+    "r1": "James",
+    "r2": "Vincenzo Santorini",
+    "r3": "",
+    "imagen": "disneycharacter.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Why did Mulan join the Imperial Army?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "To keep her sick father from joining",
+    "r1": "To revenge her grandfather’s death",
+    "r2": "Because she was in love with Li Shang",
+    "r3": "",
+    "imagen": "mulan.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "What happens to Pinocchio every time he lies?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "His nose grows",
+    "r1": "He turns into wood",
+    "r2": "He gets a punishment from his father",
+    "r3": "",
+    "imagen": "pinocchio.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "Who is Gaston’s loyal friend in Beauty and the Beast?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Lefou",
+    "r1": "Lumiere",
+    "r2": "Maurice",
+    "r3": "",
+    "imagen": "beautyandthebeast.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "What is the name of the protagonist sisters from Frozen?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Elsa and Anna",
+    "r1": "Bulda and iduna",
+    "r2": "Clara and Ryley",
+    "r3": "",
+    "imagen": "frozensisters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "In Rapunzel, what is the main character’s mother’s name?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Arianna",
+    "r1": "Gothel",
+    "r2": "Bárbara",
+    "r3": "",
+    "imagen": "rapunzelmother.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "What’s the name of the potion that Shrek and Donkey drink in Shrek 2 (2004)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Happily ever after",
+    "r1": "Divine beauty",
+    "r2": "Eternal love",
+    "r3": "",
+    "imagen": "shrekpotion.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "What species is Hiccup’s dragon in the How to Train your Dragon saga?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Night Fury",
+    "r1": "Death Fang",
+    "r2": "Monstrous Nightmare",
+    "r3": "",
+    "imagen": "dragon.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "How is Gru’s enemy called in Despicable Me (2010)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Vector",
+    "r1": "Hector",
+    "r2": "Dexter",
+    "r3": "",
+    "imagen": "gruenemy.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Which character from Toy Story didn’t know he was a toy at the very beginning of the film?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Buzz Lightyear",
+    "r1": "Woody",
+    "r2": "Mr. Potato",
+    "r3": "",
+    "imagen": "toystory.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Which emotion does this character represent in Inside Out (2015)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Fear",
+    "r1": "Disgust",
+    "r2": "Harry Styles",
+    "r3": "",
+    "imagen": "insideoutemotion.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "What is Maui’s hook for in Moana (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "To transform into different animals",
+    "r1": "For fishing",
+    "r2": "To dig",
+    "r3": "",
+    "imagen": "mauihook.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "What’s the name of Po’s master in the Kung Fu Panda saga?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Master Shifu",
+    "r1": "Master Oogway",
+    "r2": "Master rabbit",
+    "r3": "",
+    "imagen": "kungfupandamaster.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "How is the castle from the film Castle in the Sky (1986) called?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Laputa",
+    "r1": "Flying Fortress",
+    "r2": "Paluta",
+    "r3": "",
+    "imagen": "castleinthesky.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Which instrument does Johnny play in Sing (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Piano",
+    "r1": "Saxophone",
+    "r2": "Guitar",
+    "r3": "",
+    "imagen": "johnnysing.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "How is this character from Megamind (2010) called?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Metroman",
+    "r1": "Megamind",
+    "r2": "Titan",
+    "r3": "",
+    "imagen": "megamindcharacter.jpg"
+  }
+]

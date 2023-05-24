@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Com es diu el millor amic de Frodo a la trilogia del Senyor dels Anells?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Samsagaz",
+    "r1": "Pippin",
+    "r2": "",
+    "r3": "",
+    "imagen": "frodoandfriendlordoftherings.jpeg"
+  },
+  {
+    "id": 2,
+    "pregunta": "De quin color és la pastilla que pren Neo a la pel·lícula de The Matrix?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Vermella",
+    "r1": "Blava",
+    "r2": "",
+    "r3": "",
+    "imagen": "matrixpills.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "A quin any viatja en Marty a Retorn al Futur II?",
+    "categoria": "SCIFI",
+    "rcorrecta": "2015",
+    "r1": "1985",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuture2.jpeg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Quina és la famosa frase que diu l'oncle Ben a l'Spider-Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Un gran poder comporta una gran responsabilitat",
+    "r1": "Inverteix en cripto, Peter",
+    "r2": "",
+    "r3": "",
+    "imagen": "uncleben.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Quin és l'estrès icònic que Indiana Jones fa servir en totes les seves aventures?",
+    "categoria": "ADVENTURE",
+    "rcorrecta": "Fuet",
+    "r1": "Ganxo",
+    "r2": "",
+    "r3": "",
+    "imagen": "indianajones.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Com es diu el major arxienemic de Batman?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Joker",
+    "r1": "Enigma",
+    "r2": "",
+    "r3": "",
+    "imagen": "batman.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Amadeus (1984) narra la vida del compositor de música clàssica",
+    "categoria": "HISTORY",
+    "rcorrecta": "Mozart",
+    "r1": "Chopin",
+    "r2": "",
+    "r3": "",
+    "imagen": "amadeus.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "Com es diu el cotxe que fa servir Marty per viatjar en el temps a Retorn al Futur?",
+    "categoria": "SCIFI",
+    "rcorrecta": "DeLorean",
+    "r1": "McQueen",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuturecar.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "De quina casa de Hogwarts són els protagonistes de Harry Potter?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Gryffindor",
+    "r1": "Slytherin",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypottermaincharacters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "Quants integrants componen l'equip dels Venjadors originals a la primera pel·lícula dels Venjadors (2012)?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "4",
+    "r2": "",
+    "r3": "",
+    "imagen": "avengers2012.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Amb quin número d’agent s’identifica James Bond?",
+    "categoria": "ACTION",
+    "rcorrecta": "007",
+    "r1": "009",
+    "r2": "",
+    "r3": "",
+    "imagen": "jamesbond.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "De quin color eren les criatures d’Avatar (2009)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Blau",
+    "r1": "Verd",
+    "r2": "",
+    "r3": "",
+    "imagen": "avatar.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Quines eren les normes per tenir un Mogwai a la pel·lícula Gremlins (1984)?",
+    "categoria": "TERROR",
+    "rcorrecta": "No mullar-los, no donar-los de menjar després de mitjanit i no exposar-los a llums intensos",
+    "r1": "No donar-los sucre, no acostar-los a altres animals i no deixar-los sols",
+    "r2": "",
+    "r3": "",
+    "imagen": "gremlins.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Quina espècie de dinosaure sembra el caos en Parc Juràssic (1993)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Tiranosaure",
+    "r1": "Diplodocus",
+    "r2": "",
+    "r3": "",
+    "imagen": "jurassicpark.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Quin actor protagonitza la saga Missió Impossible?",
+    "categoria": "ACTION",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Brad Pitt",
+    "r2": "",
+    "r3": "",
+    "imagen": "missionimpossible.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "Quina particularitat tenen els Hobbits?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Són baixets",
+    "r1": "No poden tenir fills",
+    "r2": "",
+    "r3": "",
+    "imagen": "hobbits.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "Quantes pedres de l’infinit ha d’obtenir Thanos per completar la seva missió?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "5",
+    "r2": "",
+    "r3": "",
+    "imagen": "thanosgems.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "De quin país és originària la pel·lícula Paràsits (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Corea",
+    "r1": "França",
+    "r2": "",
+    "r3": "",
+    "imagen": "parasite.jpeg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Quantes pel·lícules té en total la saga Harry Potter?",
+    "categoria": "FANTASY",
+    "rcorrecta": "8",
+    "r1": "7",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypotter.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "Com es diu aquest personatge de la saga Star Wars?",
+    "categoria": "SCIFI",
+    "rcorrecta": "R2D2",
+    "r1": "C3P0",
+    "r2": "",
+    "r3": "",
+    "imagen": "starwarscharacter.jpg"
+  }
+]

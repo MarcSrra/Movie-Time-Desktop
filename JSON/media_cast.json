@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál de estos artistas nunca ha ganado el Óscar a mejor actor?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Christian Bale",
+    "r2": "Robert De Niro",
+    "r3": "",
+    "imagen": "oscaractor.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Única película de anime que ha recibido el Óscar a mejor película de animación",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "El viaje de Chihiro (2001)",
+    "r1": "La tumba de las luciérnagas (1988)",
+    "r2": "Your Name (2016)",
+    "r3": "",
+    "imagen": "oscaranime.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "nombre de los galardones entregados anualmente por la Academia de Ciencia Ficción, Fantasía y Películas de terror",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Premios Saturn",
+    "r1": "Premios César",
+    "r2": "Premios BAFTA",
+    "r3": "",
+    "imagen": "scifimovies.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿De qué película es este plano?",
+    "categoria": "TERROR",
+    "rcorrecta": "El Resplandor",
+    "r1": "El Renacido",
+    "r2": "Rompenieves",
+    "r3": "",
+    "imagen": "jacknicholsonfreezing.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuál de estas películas no está dirigida por Christopher Nolan?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "1917",
+    "r1": "El Caballero Oscuro",
+    "r2": "Interstellar",
+    "r3": "",
+    "imagen": "christophernolan.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué simboliza el número siete en la película Se7en (1995)?",
+    "categoria": "THRILLER",
+    "rcorrecta": "Los siete pecados capitales",
+    "r1": "Los siete círculos del infierno",
+    "r2": "Los siete magníficos",
+    "r3": "",
+    "imagen": "seven.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué actor acompañó a Timothée Chalamet protagonizando Call Me By Your Name (2017)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Armie Hammer",
+    "r1": "Ethan Hawke",
+    "r2": "Oscar Isaac",
+    "r3": "",
+    "imagen": "timotheecallmebyyourname.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿A qué se dedicaba Mia, protagonista de La La Land (2016), al principio de la película?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Empleada en una cafetería",
+    "r1": "Actriz",
+    "r2": "Bailarina",
+    "r3": "",
+    "imagen": "mialalaland.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿De qué eran los terrenos de cultivo que aparecen en Interstellar (2014)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Maíz",
+    "r1": "Trigo",
+    "r2": "Patatas",
+    "r3": "",
+    "imagen": "interstellar.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué película se sabía de memoria el protagonista de Soy Leyenda (2007), protagonizada por Will Smith?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Shrek",
+    "r1": "Regreso al futuro",
+    "r2": "Toy Story",
+    "r3": "",
+    "imagen": "iamlegend.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cómo suele pedir James Bond el Vodka Martini?",
+    "categoria": "ACTION",
+    "rcorrecta": "Agitado, pero no mezclado",
+    "r1": "Con mucho hielo",
+    "r2": "Con pajita",
+    "r3": "",
+    "imagen": "jamesbondvodkamartini.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cómo se llama el padre de Tony Stark, también conocido como Iron Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Howard Stark",
+    "r1": "Ned Stark",
+    "r2": "Harry Stark",
+    "r3": "",
+    "imagen": "fatherstark.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué efecto tiene el neuralizador en la saga Hombres de Negro?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Borra la memoria",
+    "r1": "Paraliza el cuerpo",
+    "r2": "Aturde con la luz",
+    "r3": "",
+    "imagen": "meninblackgadget.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cómo se llama la actriz que interpreta a Trinity en la saga Matrix?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Carrie-Anne Moss",
+    "r1": "Sigourney Weaver",
+    "r2": "Sandra Bullock",
+    "r3": "",
+    "imagen": "trinity.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál de estas películas de Disney aún no tiene remake en live action?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Pocahontas",
+    "r1": "Tarzán",
+    "r2": "La Sirenita",
+    "r3": "",
+    "imagen": "disneyliveaction.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cómo se llama el director de Psicosis (1960)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Alfred Hitchcock",
+    "r1": "Orson Welles",
+    "r2": "John Ford",
+    "r3": "",
+    "imagen": "psycho.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿En qué ciudad transcurre la película Lost In Translation (2003)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Tokyo",
+    "r1": "Paris",
+    "r2": "Berlin",
+    "r3": "",
+    "imagen": "lostintranslation.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿A cuántos exnovios debe derrotar Scott Pilgrim en la película Scott Pilgrim Contra el Mundo (2010)?",
+    "categoria": "COMEDY",
+    "rcorrecta": "7",
+    "r1": "9",
+    "r2": "4",
+    "r3": "",
+    "imagen": "scottpilgrim.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué actor interpretó a Elton John en su biopic Rocketman (2019)?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Taron Egerton",
+    "r1": "Tom Hanks",
+    "r2": "Tom Hardy",
+    "r3": "",
+    "imagen": "rocketman.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué nombre tiene el martillo de Thor?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Mjolnir",
+    "r1": "Stormbreaker",
+    "r2": "Jonathan",
+    "r3": "",
+    "imagen": "thorhammer.jpg"
+  }
+]

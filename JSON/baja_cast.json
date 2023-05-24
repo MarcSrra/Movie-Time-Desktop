@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cómo se llama el mejor amigo de Frodo en la trilogía del Señor de los Anillos?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Samsagaz",
+    "r1": "Pippin",
+    "r2": "",
+    "r3": "",
+    "imagen": "frodoandfriendlordoftherings.jpeg"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿De qué color es la pastilla que toma Neo en la película de The Matrix?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Roja",
+    "r1": "Azul",
+    "r2": "",
+    "r3": "",
+    "imagen": "matrixpills.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿A qué año viaja Marty en Regreso al Futuro II?",
+    "categoria": "SCIFI",
+    "rcorrecta": "2015",
+    "r1": "1985",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuture2.jpeg"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cuál es la famosa frase que le dice el tío Ben a Spider-Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Un gran poder conlleva una gran responsabilidad",
+    "r1": "Invierte en criptos, Peter",
+    "r2": "",
+    "r3": "",
+    "imagen": "uncleben.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuál es el icónico utensilio que Indiana Jones usa en todas sus aventuras?",
+    "categoria": "ADVENTURE",
+    "rcorrecta": "Látigo",
+    "r1": "Gancho",
+    "r2": "",
+    "r3": "",
+    "imagen": "indianajones.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cómo se llama el mayor archienemigo de Batman?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Joker",
+    "r1": "Enigma",
+    "r2": "",
+    "r3": "",
+    "imagen": "batman.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Amadeus (1984) narra la vida del compositor de música clásica",
+    "categoria": "HISTORY",
+    "rcorrecta": "Mozart",
+    "r1": "Chopin",
+    "r2": "",
+    "r3": "",
+    "imagen": "amadeus.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se llama el coche que usa Marty para viajar en el tiempo en Regreso al Futuro?",
+    "categoria": "SCIFI",
+    "rcorrecta": "DeLorean",
+    "r1": "McQueen",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuturecar.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿De qué casa de Hogwarts son los protagonistas de Harry Potter?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Gryffindor",
+    "r1": "Slytherin",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypottermaincharacters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuántos integrantes componían el equipo de los Vengadores originales en la primera película de Vengadores (2012)?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "4",
+    "r2": "",
+    "r3": "",
+    "imagen": "avengers2012.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Con qué número de agente se identifica James Bond?",
+    "categoria": "ACTION",
+    "rcorrecta": "007",
+    "r1": "009",
+    "r2": "",
+    "r3": "",
+    "imagen": "jamesbond.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿De qué color eran las criaturas de Avatar (2009)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Azul",
+    "r1": "Verde",
+    "r2": "",
+    "r3": "",
+    "imagen": "avatar.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuáles eran las normas para tener un Mogwai en la película Gremlins (1984)?",
+    "categoria": "TERROR",
+    "rcorrecta": "No mojarlos, no darles de comer después de medianoche y no exponerlos a luces intensas",
+    "r1": "No darles azúcar, no acercarlos a otros animales y no dejarlos solos",
+    "r2": "",
+    "r3": "",
+    "imagen": "gremlins.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué especie de dinosaurio siembra el caos en Parque Jurásico (1993)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Tiranosaurio",
+    "r1": "Diplodocus",
+    "r2": "",
+    "r3": "",
+    "imagen": "jurassicpark.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué actor protagoniza la saga Misión Imposible?",
+    "categoria": "ACTION",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Brad Pitt",
+    "r2": "",
+    "r3": "",
+    "imagen": "missionimpossible.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué particularidad tienen los Hobbits?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Son bajitos",
+    "r1": "No pueden tener hijos",
+    "r2": "",
+    "r3": "",
+    "imagen": "hobbits.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuántas gemas del infinito debe obtener Thanos para completar su misión?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "5",
+    "r2": "",
+    "r3": "",
+    "imagen": "thanosgems.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿De qué país es originaria la película Parásitos (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Corea",
+    "r1": "Francia",
+    "r2": "",
+    "r3": "",
+    "imagen": "parasite.jpeg"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuántas películas tiene en total la saga Harry Potter?",
+    "categoria": "FANTASY",
+    "rcorrecta": "8",
+    "r1": "7",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypotter.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cómo se llama este personaje de la saga Star Wars?",
+    "categoria": "SCIFI",
+    "rcorrecta": "R2D2",
+    "r1": "C3P0",
+    "r2": "",
+    "r3": "",
+    "imagen": "starwarscharacter.jpg"
+  }
+]

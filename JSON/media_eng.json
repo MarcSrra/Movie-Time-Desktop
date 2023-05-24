@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Which of these artists has never won the Oscar for best actor?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Christian Bale",
+    "r2": "Robert DeNiro",
+    "r3": "",
+    "imagen": "oscaractor.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "The only anime film has received the Oscar for best animated feature",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Spirited Away (2001)",
+    "r1": "Grave of the Fireflies (1988)",
+    "r2": "Your Name (2016)",
+    "r3": "",
+    "imagen": "oscaranime.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "Name of the awards presented annually by the Academy for Science-fiction, Fantasy and Horror films",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Saturn Awards",
+    "r1": "César Awards",
+    "r2": "BAFTA Awards",
+    "r3": "",
+    "imagen": "scifimovies.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "From which movie is this frame?",
+    "categoria": "TERROR",
+    "rcorrecta": "The Shining",
+    "r1": "The Revenant",
+    "r2": "Snowpiercer",
+    "r3": "",
+    "imagen": "jacknicholsonfreezing.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Which of these movies is not directed by Christopher Nolan?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "1917",
+    "r1": "The Dark Knight",
+    "r2": "Interstellar",
+    "r3": "",
+    "imagen": "christophernolan.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "What does the number seven symbolize in the movie Se7en (1995)?",
+    "categoria": "THRILLER",
+    "rcorrecta": "The seven deadly sins",
+    "r1": "The seven hell circles",
+    "r2": "The seven magnificents",
+    "r3": "",
+    "imagen": "seven.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Which actor starred in Call Me By Your Name (2017) along with Timotheé Chalamet?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Armie Hammer",
+    "r1": "Ethan Hawke",
+    "r2": "Oscar Isaac",
+    "r3": "",
+    "imagen": "timotheecallmebyyourname.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "What was Mia’s profession at the beginning of La La Land (2016)?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Employee in a coffee shop",
+    "r1": "Actress",
+    "r2": "Dancer",
+    "r3": "",
+    "imagen": "mialalaland.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "What was growing in the farmlands that appear in Interstellar (2014)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Corn",
+    "r1": "Wheat",
+    "r2": "Potatoes",
+    "r3": "",
+    "imagen": "interstellar.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "What movie did the main character from I am Legend (2007), starring Will Smith, know by heart?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Shrek",
+    "r1": "Back to the Future",
+    "r2": "Toy Story",
+    "r3": "",
+    "imagen": "iamlegend.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "How does James Bond usually ask for a Vodka Martini?",
+    "categoria": "ACTION",
+    "rcorrecta": "Shaken not stirred",
+    "r1": "With a lot of ice",
+    "r2": "With a string",
+    "r3": "",
+    "imagen": "jamesbondvodkamartini.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "What’s the name of the father of Tony Stark, also known as Iron Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Howard Stark",
+    "r1": "Ned Stark",
+    "r2": "Harry Stark",
+    "r3": "",
+    "imagen": "fatherstark.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "What effect does the neuralyzer have in the Men in Black saga?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Erases the memory",
+    "r1": "Paralyzes the body",
+    "r2": "Stuns with light",
+    "r3": "",
+    "imagen": "meninblackgadget.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Which actress played Trinity in the Matrix saga?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Carrie-Anne Moss",
+    "r1": "Sigourney Weaver",
+    "r2": "Sandra Bullock",
+    "r3": "",
+    "imagen": "trinity.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Which of these Disney films still doesn’t have a live action remake?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Pocahontas",
+    "r1": "Tarzan",
+    "r2": "Little Mermaid",
+    "r3": "",
+    "imagen": "disneyliveaction.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "Who directed Psycho (1960)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Alfred Hitchcock",
+    "r1": "Orson Welles",
+    "r2": "John Ford",
+    "r3": "",
+    "imagen": "psycho.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "In which city does Lost In Translation (2003) take place?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Tokyo",
+    "r1": "Paris",
+    "r2": "Berlin",
+    "r3": "",
+    "imagen": "lostintranslation.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "How many ex-boyfriends must Scott Pilgrim defeat in Scott Pilgrim Vs the World (2010)?",
+    "categoria": "COMEDY",
+    "rcorrecta": "7",
+    "r1": "9",
+    "r2": "4",
+    "r3": "",
+    "imagen": "scottpilgrim.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Who played Elton John in his biopic Rocketman (2019)?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Taron Egerton",
+    "r1": "Tom Hanks",
+    "r2": "Tom Hardy",
+    "r3": "",
+    "imagen": "rocketman.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "What’s the name of Thor’s hammer?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Mjolnir",
+    "r1": "Stormbreaker",
+    "r2": "Jonathan",
+    "r3": "",
+    "imagen": "thorhammer.jpg"
+  }
+]

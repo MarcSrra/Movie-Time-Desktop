@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Who directed the french film Le Voyage dans la Lune (1902)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Georges Méliès",
+    "r1": "Gaston Méliès",
+    "r2": "Franco",
+    "r3": "Marc Márquez",
+    "imagen": "viajeluna.jpeg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Which of the following films was not starred by Brad Pitt?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "American History X (1998)",
+    "r1": "Fight Club (1999)",
+    "r2": "The Curious Case of Benjamin Button (2008)",
+    "r3": "Se7en (1995)",
+    "imagen": "bradpitt.png"
+  },
+  {
+    "id": 3,
+    "pregunta": "Who played the orphan Dorothy Gale in Wizard of Oz (1939)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Judy Garland",
+    "r1": "Grace Kelly",
+    "r2": "Julie Andrews",
+    "r3": "Katherine Hupburn",
+    "imagen": "wizardofoz.jpeg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Who directed Schindler's List (1993)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Steven Spielberg",
+    "r1": "Roman Polanski",
+    "r2": "Michael Bay",
+    "r3": "Francis Ford Coppola",
+    "imagen": "schindlerlist.jpeg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Which was the first film David Fincher directed?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Alien 3",
+    "r1": "Se7en",
+    "r2": "Fight Club",
+    "r3": "The Game",
+    "imagen": "davidfincher.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Which actress played Jo March in Greta Gerwig’s Little Women (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Saoirse Ronan",
+    "r1": "Florence Pugh",
+    "r2": "Emma Watson",
+    "r3": "Winona Ryder",
+    "imagen": "littlewomen.jpeg"
+  },
+  {
+    "id": 7,
+    "pregunta": "What is the name of the first film Jordan Peele directed?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Get Out",
+    "r1": "Us",
+    "r2": "NOPE",
+    "r3": "Keanu",
+    "imagen": "jordanpeele.jpeg"
+  },
+  {
+    "id": 8,
+    "pregunta": "What is the name of the director of Parasite (2019)?",
+    "categoria": "TERROR",
+    "rcorrecta": "Bong Joon-ho",
+    "r1": "Park Chan-wook",
+    "r2": "Han Jin-won",
+    "r3": "Kim Kyeong-taek",
+    "imagen": "parasite.jpeg"
+  },
+  {
+    "id": 9,
+    "pregunta": "What is the name of the main character from Evil Dead (1981)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Ash",
+    "r1": "Cheryl",
+    "r2": "Scott",
+    "r3": "Linda",
+    "imagen": "evildead.jpeg"
+  },
+  {
+    "id": 10,
+    "pregunta": "Which country was Jesse going to when she met Céline in Before Sunrise (1995)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Austria",
+    "r1": "France",
+    "r2": "Germany",
+    "r3": "USA",
+    "imagen": "beforesunrise.jpeg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Which was the first film in history to be screened at a cinema?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Workers leaving the Lumiere factory",
+    "r1": "Arrival of a train at the city",
+    "r2": "Demolition of a wall",
+    "r3": "A trip to the moon",
+    "imagen": "oldcinema.jpeg"
+  },
+  {
+    "id": 12,
+    "pregunta": "Which was the first film screened with sound?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "The Jazz singer",
+    "r1": "Don Juan",
+    "r2": "The Great Dictator",
+    "r3": "Spider-Man",
+    "imagen": "cinemapiano.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Which film won the Oscar for best animated film the year the category was released (2001)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Shrek",
+    "r1": "Monsters Inc.",
+    "r2": "Atlantis",
+    "r3": "Spirited Away",
+    "imagen": "oscaranimation.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "How were the tendons from the xenomorph’s mouth made in this classic scene from Alien (1979)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Condoms",
+    "r1": "Digital Effects",
+    "r2": "Varnished paper mache",
+    "r3": "Black painted refrigerated tubes",
+    "imagen": "alien.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Which of these films does not have Jackie Chan in it?",
+    "categoria": "THRILLER",
+    "rcorrecta": "Kung Fu Hustle (2004)",
+    "r1": "Karate Kid (2010)",
+    "r2": "Police Story (1985)",
+    "r3": "Shanghai Kid (2000)",
+    "imagen": "jackiechan.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "What illness did Trevor Reznik, main character from The Machinist (2004), suffer?",
+    "categoria": "COMEDY",
+    "rcorrecta": "Insomnia",
+    "r1": "Schizophrenia",
+    "r2": "Depression",
+    "r3": "Diabetes",
+    "imagen": "trevorreznik.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "What’s the name of Emily Weaver’s secret lover in Crazy, Stupid, Love (2011)?",
+    "categoria": "WAR",
+    "rcorrecta": "David Lindhagen",
+    "r1": "Jacob Palmer",
+    "r2": "Richard Madden",
+    "r3": "Adam Sandler",
+    "imagen": "crazystupidlove.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "What’s the name of the cape George MacKay plays in 1917 (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "William Schofield",
+    "r1": "Tom Blake",
+    "r2": "James Mackenzie",
+    "r3": "Leslie Smith",
+    "imagen": "georgemckay1917.jpeg"
+  },
+  {
+    "id": 19,
+    "pregunta": "For which film did Benedict Cumberbatch receive his first Oscar nomination?",
+    "categoria": "WAR",
+    "rcorrecta": "The Imitation Game (2014)",
+    "r1": "The Power of the Dog (2021)",
+    "r2": "The Courier (2021)",
+    "r3": "Doctor Strange (2016)",
+    "imagen": "benedictcumberbitch.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "Which instrument does Sam play in Casablanca (1942)?",
+    "categoria": "TERROR",
+    "rcorrecta": "Piano",
+    "r1": "Violin",
+    "r2": "Trumpet",
+    "r3": "Xylophone",
+    "imagen": "casablanca.jpeg"
+  }
+]

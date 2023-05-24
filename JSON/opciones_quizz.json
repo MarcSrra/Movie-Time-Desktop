@@ -1,0 +1,13 @@
+[
+  {
+    "preguntas": 10,
+    "puntuacioninfantil": 200,
+    "puntuacionbaja": 150,
+    "puntuacionmedia": 100,
+    "puntuacionalta": 50,
+    "tiempoinfantil": 20000,
+    "tiempobaja": 15000,
+    "tiempomedia": 20000,
+    "tiempoalta": 30000
+  }
+]

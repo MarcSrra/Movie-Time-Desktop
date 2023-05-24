@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Quin d'aquests artistes no ha guanyat mai l'Óscar a millor actor?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Christian Bale",
+    "r2": "Robert De Niro",
+    "r3": "",
+    "imagen": "oscaractor.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Quina és l’única pel·lícula d'anime ha rebut l'Òscar a millor pel·lícula d'animació?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "El viatge de Chihiro (2001)",
+    "r1": "La tomba de les lluernes (1988)",
+    "r2": "Your Name (2016)",
+    "r3": "",
+    "imagen": "oscaranime.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "Quin és el nom dels galardons lliurats anualment per l'Acadèmia de Ciència Ficció, Fantasia i Pel·lícules de terror?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Premis Saturn",
+    "r1": "Premis Cèsar",
+    "r2": "Premis BAFTA",
+    "r3": "",
+    "imagen": "scifimovies.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "De quina pel·lícula és aquest pla?",
+    "categoria": "TERROR",
+    "rcorrecta": "El Resplandor",
+    "r1": "El Renascut",
+    "r2": "Trencaneus",
+    "r3": "",
+    "imagen": "jacknicholsonfreezing.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Quina d'aquestes pel·lícules no està dirigida per Christopher Nolan?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "1917",
+    "r1": "El Cavaller Fosc",
+    "r2": "Interstellar",
+    "r3": "",
+    "imagen": "christophernolan.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Què simbolitza el número set a la pel·lícula Se7en (1995)?",
+    "categoria": "THRILLER",
+    "rcorrecta": "Els set pecats capitals",
+    "r1": "Els set cercles de l'infern",
+    "r2": "Els set magnífics",
+    "r3": "",
+    "imagen": "seven.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Quin actor va acompanyar a Timothée Chalamet protagonitzant Call Me By Your Name (2017)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Armie Hammer",
+    "r1": "Ethan Hawke",
+    "r2": "Oscar Isaac",
+    "r3": "",
+    "imagen": "timotheecallmebyyourname.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "A què es dedicava la Mia, la protagonista de La La Land (2016), al principi de la pel·lícula?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Empleada en una cafeteria",
+    "r1": "Actriu",
+    "r2": "Ballarina",
+    "r3": "",
+    "imagen": "mialalaland.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "De què eren els terrenys de cultiu que apareixen a Interstellar (2014)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Blat de moro",
+    "r1": "Blat",
+    "r2": "Patates",
+    "r3": "",
+    "imagen": "interstellar.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "Quina pel·lícula es sabia de memòria el protagonista de Sóc Llegenda (2007), protagonitzada per Will Smith?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Shrek",
+    "r1": "Retorn al futur",
+    "r2": "Toy Story",
+    "r3": "",
+    "imagen": "iamlegend.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Com acostuma a demanar James Bond el Vodka Martini?",
+    "categoria": "ACTION",
+    "rcorrecta": "Agitat, però no barrejat",
+    "r1": "Amb molt gel",
+    "r2": "Amb canya",
+    "r3": "",
+    "imagen": "jamesbondvodkamartini.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "Quin és el nom del pare d’en Tony Stark, també conegut com Iron Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Howard Stark",
+    "r1": "Ned Stark",
+    "r2": "Harry Stark",
+    "r3": "",
+    "imagen": "fatherstark.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Quin efect té el neuralitzador en la saga Homes de Negre?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Borra la memòria",
+    "r1": "Paralitza el cos",
+    "r2": "Atordeix amb la llum",
+    "r3": "",
+    "imagen": "meninblackgadget.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Qui és l’actriu que interpreta a la Trinity en la saga Matrix?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Carrie-Anne Moss",
+    "r1": "Sigourney Weaver",
+    "r2": "Sandra Bullock",
+    "r3": "",
+    "imagen": "trinity.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Quina d’aquestes pel·lícules de Disney encara no té remake en live action?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Pocahontas",
+    "r1": "Tarzan",
+    "r2": "La Sireneta",
+    "r3": "",
+    "imagen": "disneyliveaction.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "Qui és el director de Psicosi (1960)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Alfred Hitchcock",
+    "r1": "Orson Welles",
+    "r2": "John Ford",
+    "r3": "",
+    "imagen": "psycho.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "En quina ciutat transcorre la pel·lícula Lost In Translation (2003)?",
+    "categoria": "ROMANCE",
+    "rcorrecta": "Tokyo",
+    "r1": "Paris",
+    "r2": "Berlin",
+    "r3": "",
+    "imagen": "lostintranslation.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "A quants exnovis ha de derrotar en Scott Pilgrim en la pel·lícula Scott Pilgrim Contra el Món(2010)?",
+    "categoria": "COMEDY",
+    "rcorrecta": "7",
+    "r1": "9",
+    "r2": "4",
+    "r3": "",
+    "imagen": "scottpilgrim.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Quin actor va interpretar a l’Elton John en el seu biopic Rocketman (2019)?",
+    "categoria": "MUSICAL",
+    "rcorrecta": "Taron Egerton",
+    "r1": "Tom Hanks",
+    "r2": "Tom Hardy",
+    "r3": "",
+    "imagen": "rocketman.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "Quin nom té el martell de Thor?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Mjolnir",
+    "r1": "Stormbreaker",
+    "r2": "Jonathan",
+    "r3": "",
+    "imagen": "thorhammer.jpg"
+  }
+]

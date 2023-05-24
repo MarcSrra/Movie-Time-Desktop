@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "What is Frodo’s best friend’s name in Lord of the Rings trilogy?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Samwise",
+    "r1": "Pippin",
+    "r2": "",
+    "r3": "",
+    "imagen": "frodoandfriendlordoftherings.jpeg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Of which color is the pill Neo takes in The Matrix?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Red",
+    "r1": "Blue",
+    "r2": "",
+    "r3": "",
+    "imagen": "matrixpills.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "Which year does Marty time-travel in Back to the Future II?",
+    "categoria": "SCIFI",
+    "rcorrecta": "2015",
+    "r1": "1985",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuture2.jpeg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Which one is the famous phrase Uncle Ben says to Spider-Man?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "With great power comes great responsibility",
+    "r1": "Be good, Peter",
+    "r2": "",
+    "r3": "",
+    "imagen": "uncleben.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Which is the famous object Indiana Jones uses in all his adventures?",
+    "categoria": "ADVENTURE",
+    "rcorrecta": "Whip",
+    "r1": "Hook",
+    "r2": "",
+    "r3": "",
+    "imagen": "indianajones.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "What is the name of Batman’s greatest archienemy?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "Joker",
+    "r1": "Riddler",
+    "r2": "",
+    "r3": "",
+    "imagen": "batman.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Amadeus (1984) tells the life story of this classic music composer",
+    "categoria": "HISTORY",
+    "rcorrecta": "Mozart",
+    "r1": "Chopin",
+    "r2": "",
+    "r3": "",
+    "imagen": "amadeus.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "What is the name of the car Marty uses to time-travel in Back to the Future?",
+    "categoria": "SCIFI",
+    "rcorrecta": "DeLorean",
+    "r1": "McQueen",
+    "r2": "",
+    "r3": "",
+    "imagen": "backtothefuturecar.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "Which Hogwarts house are the main characters of Harry Potter from?",
+    "categoria": "FANTASY",
+    "rcorrecta": "Gryffindor",
+    "r1": "Slytherin",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypottermaincharacters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "How many members made up the original Avengers team in the first Avengers movie (2012)?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "4",
+    "r2": "",
+    "r3": "",
+    "imagen": "avengers2012.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Which agent number does James Bond identify with?",
+    "categoria": "ACTION",
+    "rcorrecta": "007",
+    "r1": "009",
+    "r2": "",
+    "r3": "",
+    "imagen": "jamesbond.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "What color were the creatures from Avatar (2009)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Blue",
+    "r1": "Green",
+    "r2": "",
+    "r3": "",
+    "imagen": "avatar.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Which were the rules to have a Mogwai in Gremlins (1984)?",
+    "categoria": "TERROR",
+    "rcorrecta": "Not wet them, not feeding them after midnight and not exposing them to intense lights",
+    "r1": "Not giving them sugar, not taking them close to other animals and not leaving them alone",
+    "r2": "",
+    "r3": "",
+    "imagen": "gremlins.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "What dinosaur species make a mess in Jurassic Park (1993)?",
+    "categoria": "SCIFI",
+    "rcorrecta": "Tiranosaurus",
+    "r1": "Diplodocus",
+    "r2": "",
+    "r3": "",
+    "imagen": "jurassicpark.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Which actor is the star in the Mission Impossible saga?",
+    "categoria": "ACTION",
+    "rcorrecta": "Tom Cruise",
+    "r1": "Brad Pitt",
+    "r2": "",
+    "r3": "",
+    "imagen": "missionimpossible.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "What particularity do Hobbits have?",
+    "categoria": "FANTASY",
+    "rcorrecta": "They’re short",
+    "r1": "They can’t have children",
+    "r2": "",
+    "r3": "",
+    "imagen": "hobbits.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "How many infinity stones must Thanos get to complete his mission?",
+    "categoria": "SUPERHERO",
+    "rcorrecta": "6",
+    "r1": "5",
+    "r2": "",
+    "r3": "",
+    "imagen": "thanosgems.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "From which country is the film Parasite (2019)?",
+    "categoria": "HOLLYWOOD",
+    "rcorrecta": "Korea",
+    "r1": "France",
+    "r2": "",
+    "r3": "",
+    "imagen": "parasite.jpeg"
+  },
+  {
+    "id": 19,
+    "pregunta": "How many films are there in the Harry Potter saga?",
+    "categoria": "FANTASY",
+    "rcorrecta": "8",
+    "r1": "7",
+    "r2": "",
+    "r3": "",
+    "imagen": "harrypotter.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "How is this character from the Star Wars saga called?",
+    "categoria": "SCIFI",
+    "rcorrecta": "R2D2",
+    "r1": "C3P0",
+    "r2": "",
+    "r3": "",
+    "imagen": "starwarscharacter.jpg"
+  }
+]

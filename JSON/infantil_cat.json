@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Amb què es punxa el dit la Princesa Aurora a La Bella Dorment?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Una agulla de costura",
+    "r1": "L'ús d'una filosa",
+    "r2": "La pua d'un cactus enverinat",
+    "r3": "",
+    "imagen": "aurora.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "De les pel·lícules següents, quina NO és de Disney?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Shrek",
+    "r1": "Taron i el calder màgic",
+    "r2": "¡Rompe Ralph!",
+    "r3": "",
+    "imagen": "disneymovies.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "Quina frase diu Scar al seu germà Mufasa abans de llençar-lo a l'estampida?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Llarga vida al Rei",
+    "r1": "S'ha acabat el teu regnat",
+    "r2": "Fins mai, germà",
+    "r3": "",
+    "imagen": "mufasadeath.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Quin animal pensa en Lilo que és Stitch a l'hora d'adoptar-lo?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Un gos",
+    "r1": "Un gat",
+    "r2": "Una marmota",
+    "r3": "",
+    "imagen": "lilostitch.jpg"
+  },
+  {
+    "id": 5,
+    "pregunta": "Qui és el personatge de la imatge?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Milo Thatch",
+    "r1": "James Molière",
+    "r2": "Vincenzo Santorini",
+    "r3": "",
+    "imagen": "disneycharacter.jpg"
+  },
+  {
+    "id": 6,
+    "pregunta": "Perquè es va allistar la Mulan a l'Exèrcit Imperial?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Per evitar que el seu pare malalt s'allistés",
+    "r1": "Per venjar la mort del seu avi",
+    "r2": "Perquè estava enamorada den Li Shang",
+    "r3": "",
+    "imagen": "mulan.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Què li passa al Pinotxo cada vegada que diu una mentida?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Li creix el nas",
+    "r1": "Es torna de fusta",
+    "r2": "El seu pare el renya",
+    "r3": "",
+    "imagen": "pinocchio.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "Com es diu l'inseparable amic del Gastón a La Bella i la Bèstia?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Lefou",
+    "r1": "Lumiere",
+    "r2": "Maurice",
+    "r3": "",
+    "imagen": "beautyandthebeast.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "Quin és el nom de les germanes protagonistes de 'Frozen'?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Elsa i Anna",
+    "r1": "Bulda i iduna",
+    "r2": "Clara i Ryley",
+    "r3": "",
+    "imagen": "frozensisters.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "A 'Rapunzel' com es diu la mare de la protagonista?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Arianna",
+    "r1": "Gothel",
+    "r2": "Bàrbara",
+    "r3": "",
+    "imagen": "rapunzelmother.jpg"
+  },
+  {
+    "id": 11,
+    "pregunta": "Quin nom té la poció que prenen Shrek y Ruc en Shrek 2 (2004)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Feliços per sempre",
+    "r1": "Bellesa divina",
+    "r2": "Amor etern",
+    "r3": "",
+    "imagen": "shrekpotion.jpg"
+  },
+  {
+    "id": 12,
+    "pregunta": "De quina espècie és el drac d’en Hipo en la saga Com Ensinistrar un Drac?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Fúria Nocturna",
+    "r1": "Ullal Mortal",
+    "r2": "Malson Monstruós",
+    "r3": "",
+    "imagen": "dragon.jpg"
+  },
+  {
+    "id": 13,
+    "pregunta": "Com és diu el rival de Gru en Gru, el meu Dolent Preferit (2010)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Vector",
+    "r1": "Hector",
+    "r2": "Dexter",
+    "r3": "",
+    "imagen": "gruenemy.jpg"
+  },
+  {
+    "id": 14,
+    "pregunta": "Quin personatge de Toy Story no sabia inicialment que era una joguina?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Buzz Lightyear",
+    "r1": "Woody",
+    "r2": "Sr. Patata",
+    "r3": "",
+    "imagen": "toystory.jpg"
+  },
+  {
+    "id": 15,
+    "pregunta": "Quina emoció representa aquest personatge en Del Revés (2015)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Por",
+    "r1": "Fàstic",
+    "r2": "Harry Styles",
+    "r3": "",
+    "imagen": "insideoutemotion.jpg"
+  },
+  {
+    "id": 16,
+    "pregunta": "Per a què serveix el ganxo de Maui en Vaiana (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Per transformar-se en diversos animals",
+    "r1": "Per pescar",
+    "r2": "Per excavar",
+    "r3": "",
+    "imagen": "mauihook.jpg"
+  },
+  {
+    "id": 17,
+    "pregunta": "Com s’anomena el mestre de Po en la saga Kung Fu Panda?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Mestre Shifu",
+    "r1": "Mestre Oogway",
+    "r2": "Mestre conill",
+    "r3": "",
+    "imagen": "kungfupandamaster.jpg"
+  },
+  {
+    "id": 18,
+    "pregunta": "Com es diu el castell en la pel·lícula El Castell al Cel (1986)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Laputa",
+    "r1": "Fortalesa flotant",
+    "r2": "Paluta",
+    "r3": "",
+    "imagen": "castleinthesky.jpg"
+  },
+  {
+    "id": 19,
+    "pregunta": "Quin instrument toca en Johnny en la pel·lícula Canta (2016)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Piano",
+    "r1": "Saxofon",
+    "r2": "Guitarra",
+    "r3": "",
+    "imagen": "johnnysing.jpg"
+  },
+  {
+    "id": 20,
+    "pregunta": "Com s’anomena aquest personatge de la pel·lícula Megamind (2010)?",
+    "categoria": "INFANTIL",
+    "rcorrecta": "Metroman",
+    "r1": "Megamind",
+    "r2": "Titá",
+    "r3": "",
+    "imagen": "megamindcharacter.jpg"
+  }
+]
